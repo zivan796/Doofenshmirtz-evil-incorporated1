@@ -57,6 +57,7 @@ namespace PRACTIKA
             scheduleTable.Rows.Add(8, "Игры", new DateTime(2024, 12, 28), "⏳ Ожидает");
             scheduleTable.Rows.Add(9, "Кино", new DateTime(2024, 12, 30), "⏳ Ожидает");
             scheduleTable.Rows.Add(10, "Музыка", new DateTime(2024, 12, 31), "⏳ Ожидает");
+            scheduleTable.Rows.Add(11, "Наука", new DateTime(2025, 1, 5), "⏳ Ожидает");
         }
         private void button1_Click(object sender, EventArgs e)
         {
